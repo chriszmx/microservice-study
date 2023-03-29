@@ -4,7 +4,9 @@
   "python.linting.enabled": true,
   "editor.formatOnSave": true,
   "cSpell.words": [
+    "fanout",
     "PEXELS",
+    "rabbitmq",
     "restfulized",
     "Tfulize"
   ]
